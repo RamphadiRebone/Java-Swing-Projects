@@ -27,10 +27,10 @@ A stock management app for a clothing store that lets the user add, view, update
 * Converts user input with Double.parseDouble and Integer.parseInt
 * Handles invalid entries with error handling
   
-###Screenshot
+### Screenshot
 <img width="532" height="554" alt="image" src="https://github.com/user-attachments/assets/fa3f19d1-7955-49aa-9e8e-db41e033e2be" />
 
- ##Tools
+ ## Tools
 * Java
 * Java Swing
 * IntelliJ IDEA
